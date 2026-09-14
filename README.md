@@ -1,4 +1,4 @@
-# hiker-database-server
+# [DEPRECATED] hiker-database-server
 Servidor PostgreSQL 18 com Docker.
 
 ### Pré-requisitos
